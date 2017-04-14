@@ -37,6 +37,12 @@ __What makes a good lure angler?__:
   patterns they are reacting to. Otherwise you waste a lot of time fishing the wrong style or lure.
 * Patterns: Yoyo (up and down), Crawl (like yoyo but along the bottom), Burn (retrieve VERY fast), Dead Stick (still at bottom for 5-6 seconds, then inch along slowly to imitate a dying fish)
 
+__Topwater, Swimming, Diving, Sinking__:
+
+Lures are further classified based on their action. Does it swim along the top? Does it dive? Does it sink and crawl
+along the bottom? These classifications are often offered when you're buying, and it helps to know where in the water
+your target fish swim. (Example: trout like topwater lures.)
+
 ## Jerkbaits
 
 These are lures that are often used with baitcasting rods. You cast them out, then move them around by
