@@ -37,12 +37,13 @@ the perfect way to get hooked on fishing though!
 Seized with the fishing bug, I went out and bought a bunch of fishing equipment
 from [Gus's Discount Tackle](http://www.gusdiscounttackle.com), which is one of
 the few fishing shops in San Francisco. There is another shop to the south, but
-I was in Sunset so I tried out a few things and decided on two $30 rods for
-saltwater pier and freshwater fishing. The store owner Steph recommended that I
-try powerbait for freshwater trout and catfish, and gave me the correct sized
-(small) hooks. She gave me some larger hooks and weights for saltwater pier
-fishing, saying I should use some chicken liver or live baitfish when trying
-that. Seems like people here use anchovies most frequently.
+I was in the Sunset so I tried out a few things.
+
+I decided on two $30 rods for saltwater pier and freshwater fishing.
+The store owner Steph recommended that I try powerbait for freshwater trout
+and catfish; she gave me the correct sized (small) hooks. She gave me some
+larger hooks and weights for saltwater pier fishing, saying I should use some
+chicken liver or live baitfish when trying that.
 
 The next weekend I went to [Pacifica
 Pier](https://www.google.com/maps/place/Pacifica+Municipal+Pier/@37.6333788,-122.498441,17z).
@@ -61,6 +62,6 @@ throwing baited hooks down at different depths for hours.
 We really didn't know what we were doing, so I started to do some
 research. But there's a lot to learn and a lot of fishing terms!
 
-__I realized there isn't a single site to learn about the myriad of tools
-and techniques of the modern angler, so this repository will serve as a reference
+This is a long-winded story to convey my realization that __there isn't a single site to learn about the myriad of tools
+and techniques of the modern angler! As a result, this repository will serve as a reference
 for myself and anyone interested.__
