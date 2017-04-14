@@ -7,7 +7,7 @@ The Pennsylvania Wildlife Commission has [a great guide](./img/tmf_knots.pdf) to
 long to learn but you should take a hook and a line and practice tying the most basic knots, given that the simple
 "double criss cross" (more formally, an overhand knot) actually weakens your line by ~50%.
 
-Want to land bigger fish? Learn at least these two knots:
+Want to land bigger fish? Learn at least these knots:
 
 ## Palomar Knot
 
