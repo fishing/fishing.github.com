@@ -64,7 +64,12 @@ They cast very far, don't tangle as easily as other lures, and work very well wi
 
 ### Swimbaits
 
-These are lures that have segments and are designed to look like swimming fish. You sort of have to move them around in still water, otherwise I've caught stuff on them in the ocean just from the ocean water moving. [Example of a swimbait](https://www.amazon.com/Blue-Gill-Panfish-Talipia-Fishing/dp/B00RC9A66A).
+Swimbaits imitate swimming fish. Honestly the terminology isn't super clear cut, and some would consider swimbaits
+to be a larger category that encompasses jerkbaits, ripbaits, plugs, etc. Depends on who you talk to.
+
+#### Segmented
+
+Some swimbaits that have segments and are designed to look like swimming fish. You sort of have to move them around in still water, otherwise I've caught stuff on them in the ocean just from the ocean water moving. [Example of a swimbait](https://www.amazon.com/Blue-Gill-Panfish-Talipia-Fishing/dp/B00RC9A66A).
 
 ### Ripbaits
 
