@@ -6,9 +6,15 @@ the ones to know aren't too many and talked about below.
 ### Spinning Reels
 
 Spinning reels are the most common reel and the one most think of when we talk about fishing.
-They're most used for small to medium-sized fish like bass, redfish, and crappie.
+They're most used for small to medium-sized fish like bass, trout, redfish, and crappie.
 These reels have a fixed spool underneath the rod, and line is drawn out by the weight of
 the lure, bait, or tackle. They're the easiest kind of reel to use.
+
+You can totally use them to fish for giant fish as well. There's nothing you can't catch on a
+spinning reel. If you're completely new to fishing, go for a spinning reel and stop looking
+at all the other fancy things.
+
+#### Casting Spinning Reels
 
 When you cast with a spinning reel, you lift the bail (the bar on the reel) and the weight of
 the tackle pulls string off the reel. The reel does NOT spin as line comes off it; it only
@@ -62,6 +68,11 @@ and if you don’t stop the spool after your bait / lure lands, the line keeps f
 One fallacy that people give is that you can't cast bait with a baitcaster (that it's for lures only). This
 turns out to be false. If you think about it logically there's not really a reason why you can't attach bait
 instead of a lure.
+
+One __true__ thing about baitcasters is that they excel with heavier weights. Casting a light spoon or spinner?
+You'll probably have an easier time using a spinning reel unless you've taken a lot of time to get good at
+baitcasters. Tuning baitcasters for light tackle is definitely one of the harder things; some people swear by
+baitcasters but new anglers should be aware that the easiest thing is to start with spinning reels.
 
 ### Fly Reel
 
