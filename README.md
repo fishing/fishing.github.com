@@ -26,6 +26,10 @@
 
 * [Tying Knots](knots.md)
 
+### Where to Fish
+
+* [San Francisco Bay Area, USA](https://goo.gl/cCDBp0)
+
 ## Introduction
 
 In early 2016 my partner and I went on a fishing trip in the San Francisco bay: we
