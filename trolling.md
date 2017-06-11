@@ -14,7 +14,7 @@ price compare.
 The one I purchased for use on row boats and inflatables was the
 [Minn Kota Endura C2 40 Freshwater Transom Mounted Trolling Motor (36" Shaft)](https://www.amazon.com/gp/product/B0043H31GG).
 
-<img alt="Trolling Motor" src="./img/minn_kota_trolling_motor.jpg" height=200 />
+<img alt="Trolling Motor" src="./img/minn_kota_trolling_motor.jpg" height="200" />
 
 It came in an intimidatingly large box, but isn't actually that big and weighs
 maybe 15lbs; it's very transportable and easy to set up. I stuck the telescoping
