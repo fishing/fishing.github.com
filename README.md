@@ -26,6 +26,19 @@
 
 * [Tying Knots](knots.md)
 
+### Rigs
+
+#### Freshwater
+
+* [Drop Shot Rig](drop_shot.md)
+* [Texas Rig](texas_rig.md)
+* [Carolina Rig](carolina_rig.md)
+
+#### Saltwater
+
+* [Fishfinder Rig](fish_finder_rig.md)
+* [High Low Rig](high_low_rig.md)
+
 ### Where to Fish
 
 * [San Francisco Bay Area, USA](https://goo.gl/cCDBp0)
