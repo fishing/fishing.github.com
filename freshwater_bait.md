@@ -13,6 +13,13 @@ eating pellets. I honestly didn't have much success with powerbait but have seen
 testimonials and pictures from others who've caught pretty large fish using it.
 I have some so I'll keep trying, but at this point I favor live bait much more.
 
+## Soft Plastics
+
+Salt-infused soft plastics in the shape of worms, crawfish, or bugs are very effective baits.
+They're great using several techniques including drop-shotting, texas-rigging, and carolina rigging.
+There are a variety of these plastics and they can be used across a variety of fish. They're very popular
+for trout and bass.
+
 ## Live Bugs
 
 ### Nightcrawlers (Earthworms)
