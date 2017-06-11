@@ -2,21 +2,34 @@
 
 ## Types
 
-There are (2) main kinds of line: braid and monofilament. Both come in colors but only monofilament has clear. Both are good and catch fish.
+There are three main kinds of line: braid, fluorocarbon, and monofilament. All come in colors but you can't get clear braid. All are good and catch fish but when you should use them varies.
 
 ### Braided Line (Braid Line)
 
 Braid is stronger in general per thickness vs monofilament, and is kind of like sewing thread in consistency. It's harder
 to tie some knots on braid just because it's like dealing with thread.
 
+Its main benefit is that it's more "sensitive" than mono. Since it has no stretch, if a fish pulls on the line you'll feel the bite more.
+
+For wary fish you can't just use braid (e.g trout). You should generally attach a clear mono or fluorocarbon leader to your braid instead so that line-shy fish can't see your line.
+
 <img alt="Braid Line" src="./img/braid_line.jpg" height="200">
 
 ### Monofilament (Mono Line)
 
 Mono is more common. You have the option to have clear line, which is nice for being less visible to fish. It has a
-bit of stretch to it which can help in some kinds of fishing.
+bit of stretch to it which can help in some kinds of fishing (provides shock absorption for hard-hitting strikes). Unfortunately since mono is water permeable, it can weaken over time. So don't leave the same mono line on for spool for too long, and dry off your reels when they get wet!
 
 <img alt="Mono Line" src="./img/mono_line.jpg" height="200">
+
+### Fluorocarbon (Fluoro Line)
+
+Fluorocarbon is only available in clear but is very invisible to fish that are line-shy with other kinds of line.
+
+It's like improved mono: it isn't water permeable (no weaknening over time), it's more abrasion resistant than mono,
+it's UV-resistant (again, no weakening over time)...
+
+It's main disadvantage is that it's more expensive than mono. What a lot of people do is use it for leader line (fluorocarbon leader) to save money.
 
 ## Line Weight
 
