@@ -33,6 +33,7 @@
 * [Drop Shot Rig](drop_shot.md)
 * [Texas Rig](texas_rig.md)
 * [Carolina Rig](carolina_rig.md)
+* [Wacky Rig](wacky_rig.md)
 
 #### Saltwater
 
