@@ -14,7 +14,7 @@
 
 ### Lake Fishing
 
-* [Lake Fish Types](lake_fish.md)
+* [Freshwater Fish Types](freshwater_fish.md)
 * [Freshwater Baits](freshwater_bait.md)
 
 ### Pier Fishing
