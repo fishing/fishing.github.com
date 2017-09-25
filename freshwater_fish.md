@@ -1,4 +1,25 @@
-# Kinds of Lake Fish
+# Kinds of Freshwater Fish
+
+There are a few main kinds of North American freshwater fish people go after. They are as follows:
+
+1. Panfish (Crappie, Sunfish, Bluegill which is a kind of Sunfish)
+2. Trout (rainbows that live in lakes are called steelhead)
+3. Bass (Black Bass Family)
+4. Catfish
+5. Carp
+6. Salmon (exclusively rivers, you won't find these in lakes)
+
+### The Food Chain
+
+* Panfish eat bugs and other fish's babies (fry) and at the bottom of the fish food chain.
+* Trout eat panfish e.g bluegill and other fry as well; their mouths aren't super large though and whatever they eat has to fit in their mouths.
+* Bass eat everything. Bluegill, small trout, etc. Largemouth bass can fit lots of things in their stomachs. They love Crawfish! Which is weird if you think about it -- crawfish have claws and hard shells...but apparently largemouths can eat them right up.
+* Salmon eat plankton and insects when young, then as they get bigger they eat fish, squid, eels, and shrimp. Sockeye Salmon are special in that they mostly only eat plankton.
+
+Some other fish you might see mentioned that are more rare:
+
+1. Sturgeon (these fish live a long time and are protected in most places -- you can't fish them with normal hooks but have to use barbless in most states).
+2. Lake Trout (similarly to sturgeon some major regulations in different places -- pretty different from the rest of the trout family which mostly require flowing water to thrive).
 
 ## Trout
 
