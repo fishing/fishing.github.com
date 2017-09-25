@@ -5,13 +5,17 @@
 ### Powerbait
 
 [Powerbait](https://www.amazon.com/Berkley-Powerbait-Glitter-Rainblow-1-75-Ounce/dp/B0000AV1L0)
-is mush that you put on your hook and hope the fish swallows whole. You don't
+is often found as jars of mush that you put on your hook and hope the fish swallows whole. You don't
 want to make balls of powerbait too large because fish might nibble at it and
 never get hooked. Also most trout mouths aren't actually that big. Only
-farm-raised fish will eat powerbait, because other fish aren't accustomed to
-eating pellets. I honestly didn't have much success with powerbait but have seen
-testimonials and pictures from others who've caught pretty large fish using it.
-I have some so I'll keep trying, but at this point I favor live bait much more.
+farm-raised fish will eat powerbait dough, because other fish aren't accustomed to
+eating pellets.
+
+I honestly didn't have much success with powerbait but have seen testimonials and pictures from
+others who've caught pretty large fish using it. I have some so I'll keep trying.
+
+One thing I heard is that the "natural" flavor of powerbait works really well for some Rainbow trout.
+Unfortunately it tends to gut-hook fish because it's so yummy to them that they swallow it voraciously.
 
 ## Soft Plastics
 
