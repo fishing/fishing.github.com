@@ -12,7 +12,7 @@
 * [Fish Finders](fish_finders.md) 
 * [Tackle](tackle.md)
 
-### Lake Fishing
+### Freshwater Fishing
 
 * [Freshwater Fish Types](freshwater_fish.md)
 * [Freshwater Baits](freshwater_bait.md)
