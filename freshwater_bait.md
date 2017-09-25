@@ -22,7 +22,10 @@ Unfortunately it tends to gut-hook fish because it's so yummy to them that they 
 Salt-infused soft plastics in the shape of worms, crawfish, or bugs are very effective baits.
 They're great using several techniques including drop-shotting, texas-rigging, and carolina rigging.
 There are a variety of these plastics and they can be used across a variety of fish. They're very popular
-for trout and bass.
+for trout and bass. They're often infused with various scents.
+
+You generally want to thread them onto a jighead (it's a hook with a metal head) for effective jigging, though
+there are other ways to use soft plastics as well (e.g add them to a spinner or other lure).
 
 ## Live Bugs
 
@@ -67,6 +70,9 @@ organic material, and they make great bait for smaller fish.
 
 ## Live Baitfish
 
+Specifically in California live bait is mostly limited to worms due to fear of invasive species.
+But on the east coast I've used live bait in the past.
+
 ### Killies
 
 Also known as [Killifish](https://en.wikipedia.org/wiki/Killifish) I used to get a bucket of these and a [portable water aerator](https://www.amazon.com/Marine-Metal-Bubble-Portable-Pump/dp/B000EYULIS) to keep them alive. We were mostly catching freshwater bass and catfish with these; I got a 16" catfish at Holmdel Park in NJ! From what I understand they're mostly an east-coast thing though. I've yet to discover what live freshwater baitfish are used around here in California.
@@ -75,3 +81,7 @@ Also known as [Killifish](https://en.wikipedia.org/wiki/Killifish) I used to get
 
 Many northern California lakes have little shad. As a result you might find some success using them as live bait, but
 many lakes are regulated to prevent invasive species.
+
+### Minnows
+
+Minnows as bait are not allowed in the state of California; they're invasive.
