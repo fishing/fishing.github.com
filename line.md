@@ -2,7 +2,13 @@
 
 ## Types
 
-There are three main kinds of line: braid, fluorocarbon, and monofilament. All come in colors but you can't get clear braid. All are good and catch fish but when you should use them varies.
+There are four main kinds of line: braid, fluorocarbon, copolymer, and monofilament. Most come in colors but you can't get clear braid and you can't get colored fluorocarbon. All are good and catch fish but when you should use them varies.
+
+In 2017 I recommend Fluorocarbon line for leaders because it's so invisible and honestly I use it for my main line as well so I don't have to deal with re-tying a new leader every so often; it's not cost-prohibitive to do so for most freshwater line weights (anything 20lbs and under is not too expensive -- probably $30 max).
+
+For saltwater fishing I use mono because of cost but I usually attach a fluorocarbon leader (50lbs test or higher).
+
+A common setup is to use braid as your main line and fluorocarbon leader, joined with a double uni knot. Make sure your leader is similar diameter to your braid if that's the case.
 
 ### Braided Line (Braid Line)
 
@@ -21,6 +27,11 @@ Mono is more common. You have the option to have clear line, which is nice for b
 bit of stretch to it which can help in some kinds of fishing (provides shock absorption for hard-hitting strikes). Unfortunately since mono is water permeable, it can weaken over time. So don't leave the same mono line on for spool for too long, and dry off your reels when they get wet!
 
 <img alt="Mono Line" src="./img/mono_line.jpg" height="200">
+
+### Copolymer Line
+
+Copolymer is a less-popular kind of line, probably because it has similar characteristics to mono but is more expensive
+on account of slight upgrades in the areas of shock absorption, memory (it has low memory), an abrasion resistance. It's unfortunately more visible than mono as well, which isn't a great tradeoff.
 
 ### Fluorocarbon (Fluoro Line)
 
