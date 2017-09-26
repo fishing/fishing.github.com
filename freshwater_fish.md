@@ -25,7 +25,7 @@ Trout and Salmon are the gold standard for eating. They're high in omega 3's and
 
 Trout generally need clean moving water, so you're more likely to find them in streams and rivers than anywhere else. Rainbow trout
 are sought after as sportfish as well as ideal food, so they get stocked into lakes for the exclusive purpose of sportfishing
-as well.
+as well. Salmon are also only really found in rivers since they swim out to the ocean and migrate to fresh water to spawn.
 
 ### The Food Chain
 
