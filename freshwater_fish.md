@@ -12,6 +12,7 @@ There are a few main kinds of North American freshwater fish people go after. Th
 ### Fish as Food
 
 Eating fish: Trout, Salmon, Catfish
+
 Probably not worth eating: Bass, Panfish, Carp
 
 Catfish are mostly only eaten in the south. They're not great tasting unless you really fry them. They're
