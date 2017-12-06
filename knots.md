@@ -9,12 +9,26 @@ long to learn but you should take a hook and a line and practice tying the most 
 
 Want to land bigger fish? Learn at least these knots:
 
+## Uni Knot
+
+If you don't want to learn many knots, this is the only one to know. You can do line-to-line (double uni), line to hook, line to loop, etc. Once you get the hang of it, it's pretty easy.
+
+However I personally like the Palomar knot better for situations where it works, mainly because I find it easier to tie and because it has slightly better knot strength. I use the Uni knot for pretty much all other situations.
+
+![Uni Knot](./img/uni-knot.jpg)
+
 ## Palomar Knot
 
 * 95% line strength
-* Takes more line to tie because it doubles a piece of line first
-* Good for lines of 20+ lbs
+* Great for lines of 20+ lbs but still good for lighter line as well.
+* One of the easiest knots to learn.
+* Consistenly one of the strongest knots (does better than most knots under heat / friction).
+
+Drawbacks:
+
 * Some say it tangles easier because it is run doubled through
+* Takes more line to tie because it doubles a piece of line first
+* You have to pull one end of what you're tying through a loop, so in situations where you can't do that (e.g tying a hook at the end of a rig that's already attached to your reel) you need to use a different knot.
 
 ## Perfection Loop
 
@@ -30,9 +44,3 @@ knots it doesn't slide on the line, so you can make a fixed-sized hoop.
 
 * Easy! 5 turns, then slip the end through 2 hoops and pull tight!
 * Again, 95% line strength
-
-## Uni Knot
-
-This one is a classic and fisher favorite. You can join 2 pieces of line by using two unis (a double uni). For example, one time when I was fishing the sabiki rig I was using was too close to the bottom where my weight was hitting. So to make things easier I put my weight on a piece of line, then joined it with the end of my sabiki using a double uni. Then my rig was floating higher in the water where fish were biting!
-
-![Uni Knot](./img/uni-knot.jpg)
