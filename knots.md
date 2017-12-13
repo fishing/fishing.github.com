@@ -17,6 +17,11 @@ However I personally like the Palomar knot better for situations where it works,
 
 ![Uni Knot](./img/uni-knot.jpg)
 
+### Uni Knot Tips
+
+1. If you want to tie line to reel, use 2-3 loops instead of 5-7.
+2. If you want to tie braid to mono/fluorocarbon, wrap the braid a few more times than the mono (e.g 5-6 wraps for mono, 8-9 wraps for braid).
+
 ## Palomar Knot
 
 * 95% line strength
