@@ -30,14 +30,15 @@ as well. Salmon are also only really found in rivers since they swim out to the 
 ### The Food Chain
 
 * Panfish eat bugs and other fish's babies (fry) and at the bottom of the fish food chain.
-* Trout eat panfish e.g bluegill and other fry as well; their mouths aren't super large though and whatever they eat has to fit in their mouths.
-* Bass eat everything. Bluegill, small trout, etc. Largemouth bass can fit lots of things in their stomachs. They love Crawfish! Which is weird if you think about it -- crawfish have claws and hard shells...but apparently largemouths can eat them right up.
+* Trout eat fry and bugs; their mouths aren't super large though and whatever they eat has to fit in their mouths.
+* Bass eat everything. Bluegill, crappie, small trout, etc. Largemouth bass can fit lots of things in their stomachs. They love Crawfish! Which is weird if you think about it -- crawfish have claws and hard shells...but apparently largemouths can eat them right up.
 * Salmon eat plankton and insects when young, then as they get bigger they eat fish, squid, eels, and shrimp. Sockeye Salmon are special in that they mostly only eat plankton.
 
 Some other fish you might see mentioned that are more rare:
 
 1. Sturgeon (these fish live a long time and are protected in most places -- you can't fish them with normal hooks but have to use barbless in most states).
 2. Lake Trout (similarly to sturgeon some major regulations in different places -- pretty different from the rest of the trout family which mostly require flowing water to thrive).
+3. Muskie (aggressive predator fish with big teeth, commonly found in colder parts of north america e.g Canada / Midwest lakes.
 
 ## Trout
 
