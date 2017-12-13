@@ -1,27 +1,33 @@
 # Fishing Lures
 
+## Introduction
+
 Lures are non-organic things you use to entice fish to bite, generally by making them think
 they're after a worm or a baitfish.
 
-As it turns out, lures are just as effective as live baits in most cases, but you have to know
-how to use them correctly (particularly casting baits, as opposed to crankbaits).
+As it turns out, lures are just as effective if not more effective than live baits in many cases, but you have to know
+how to use them correctly.
 
-I personally am starting to like lures more than baits when surfcasting for a few reasons:
+Lures are definitely better for aggressive fish. You're probably better off baitfishing if you're going for prety that rely on sense of smell (e.g Catfish and Carp are better fished using baits). There's a reason most bass anglers you meet use lures.
+
+Lures shine when __surfcasting__ for a few reasons:
 
 1. Lures don't get snagged on seaweed as much when you're surfcasting.
-2. They are their own weight: no additional lead weights needed and time spent detangling slider rigs tossed by the surf!
+2. They are often their own weight: no additional lead weights needed and time spent detangling slider rigs tossed by the surf!
 3. They generally lead to an active fishing style which is really fun, if a little strenuous. But it's great exercise.
 4. You can get creative with them and use different kinds based on what water you're fishing in. For example, you might use a diver when you are casting into deeper surf, or a floater when the surf is not as rough and fish are striking more in shallows. For spoon lures you can paint your own or add reflective stickers or whatever you think will make it more enticing for fish.
 
-For me, I find that lures are less important for freshwater fishing. A lot of people use fake worms for freshwater fishing as well but I think nightcrawlers really do the trick. I also don't have huge problems with snags in freshwater.
+Lures shine when __freshwater fishing__ for a few reasons:
 
-There are many kinds of lures. Some will require that you use a baitcaster (or "caster") rod
-instead of a common "spinning" rod. This is because for lures to work, you generally want them
-to emulate some living creature (usually a small baitfish).
+1. You can cover a lot of water and don't have to wait for fish to come to you. Bait on the other hand requires lots of waiting.
+2. You can target various depths and water types well and switch out colors to attract aggressive fish.
 
-You generally want to use mono line or have mono / fluorocarbon leader when using lures. Braid tends to tangle with lures.
 
-There are (2) main classifications of baits that groups them by how they're used: jerkbaits and crankbaits. There's also a category that doesn't fit nicely with the other two, called ripbaits. They're described below.
+## Lures & Line
+
+You generally want to use mono line or have mono / fluorocarbon leader when using lures. Braid tends to tangle with lures. My go-to setup for freshwater fishing is 10lbs braid or copolymer tied to 8lbs fluorocarbon leader.
+
+## Lure Fishing Basics
 
 __Dimensions to Lure Fishing__:
 
@@ -43,7 +49,9 @@ Lures are further classified based on their action. Does it swim along the top? 
 along the bottom? These classifications are often offered when you're buying, and it helps to know where in the water
 your target fish swim. (Example: trout like topwater lures.)
 
-## Jerkbaits
+## Types of Lures
+
+### Jerkbaits
 
 These are lures that are often used with baitcasting rods. You cast them out, then move them around by
 doing a "jerk-jerk-pause" kind of pattern. If you use a spinning rod, this may cause a lot of
@@ -57,23 +65,35 @@ Most jerkbaits are _ripbaits_.
 
 [Plugs](https://en.wikipedia.org/wiki/Plug_(fishing)) are lures with a hard body. They're popular for ocean fishing. Sometimes baitfish-imitating plugs are called "Minnows" -- a really popular surfcasting plug is the [Daiwa SP Minnow](https://www.amazon.com/Diawa-Minnow-DSPM15F24-Blue-mackerel/dp/B003ZZBECU). Plugs have various kinds of action -- for example I have one with beads inside that roll around and cause the plug to look more fishlike as you reel it in. Plugs all have a lip that controls the movement of the lure as it's being reeled: some stay on the surface (floaters) and move up and down there, whereas others move up and down low in the water (sinkers).
 
-### Bucktail Jigs
+### Jigs
 
-Used frequently for surfcasting for striped bass. These are best fished by casting them out, then letting them sink a little,
-then retrieving a little, then letting them sink a little, then retrieving a little. So essentially jerk-jerk-pause.
+Jigheads are hooks with weighted heads. They look like this:
+
+<img alt="" src="./img/jigs.jpg" height="150">
+
+Jigs consist of a jighead and a body. The body can be a soft plastic ("swimbait"), part of the jighead itself, and/or have a skirt. The most common jigs use some sort of skirt made of hair / plastic along with a plastic worm threaded onto the hook.
+
+#### Bucktail Jigs
+Used frequently for surfcasting for striped bass. These are best fished by casting them out, then letting them sink a little, then retrieving a little, then letting them sink a little, then retrieving a little. So essentially jerk-jerk-pause.
 
 They cast very far, don't tangle as easily as other lures, and work very well with ocean fish.
 
 ### Spoons
 
-[Spoon lures](https://en.wikipedia.org/wiki/Spoon_lure) are lures that look nothing like fish but are mainly to reflect light  and encourage bites through erratic motion. You want to use these on sunny days and you don't want to let them sink at all; start reeling as soon as they hit the water. I have some larger saltwater spoons as well as small freshwater spoons. You can troll with them by pulling them behind a moving boat as well.
+[Spoon lures](https://en.wikipedia.org/wiki/Spoon_lure) are shiny metal lures that look nothing like fish but are mainly to reflect light and encourage bites through erratic motion. You want to use these on sunny days and you don't want to let them sink at all; start reeling as soon as they hit the water. I have some larger saltwater spoons as well as small freshwater spoons. You can troll with them by pulling them behind a moving boat as well.
+
+### Spinners
+
+Spinners are similar to spoons in that they are topwater lures 
 
 ### Swimbaits
 
-Swimbaits imitate swimming fish. Honestly the terminology isn't super clear cut, and some would consider swimbaits
-to be a larger category that encompasses jerkbaits, ripbaits, plugs, etc. Depends on who you talk to.
+Swimbaits imitate swimming fish. The word swimbait most commonly refers to a plastic that you thread onto a jighead.
+The swimbait is the plastic fish imitation itself, and the jig is the jighead + the swimbait.
 
-#### Segmented
+Any fish-imitation can be considered a swimbait though.
+
+##### Example: Segmented Hard-bodied Swimbaits
 
 Some swimbaits that have segments and are designed to look like swimming fish. You sort of have to move them around in still water, otherwise I've caught stuff on them in the ocean just from the ocean water moving. [Example of a swimbait](https://www.amazon.com/Blue-Gill-Panfish-Talipia-Fishing/dp/B00RC9A66A).
 
@@ -90,10 +110,10 @@ between rips).
 For example, I've heard someone describe a jerkbait as being a ripbait in certain seasons
 and not in others.
 
-### Hula Popper
+### Popper
 
 A top-water fishing lure. You cast it in and "pop" it up then let it sink back down with some cadence (5-10 seconds).
-Popular for bass fishing; has been around since 1960s. The inventor was a guy named Fred Arbogast.
+Popular for bass fishing; has been around since 1960s. The inventor was a guy named Fred Arbogast, who invented the first / a very famous popper called the "hula popper." (It has a hula-skirt.)
 
 When properly fished, it creates a spitting action and a popping sound, making it a sight and sound lure.
 
@@ -106,7 +126,7 @@ From this <a href="http://bassfishingdem.blogspot.com/2008/05/hula-popper.html">
 > in calm water over any depth as bass can swim unbelievably fast from deep water to attack a surface lure. My best success
 > is in less than four feet of water along uneven banks with vegetation.
 
-## Crankbaits
+### Crankbaits
 
 Crankbaits can be used both with casting and spinning reels. The idea behind a crankbait is you cast it as far as you can, then slowly crank it back. Then do it again and again. The only way to fish a crankbait wrong is to fish it at the wrong depth.
 
@@ -118,7 +138,7 @@ rod first, which gives the bass time to get away.
 * When bass fishing with crankbaits you also want to keep your rod low during the fight so as to
 discourage the bass from jumping. One technique I saw described getting down on one knee.
 
-### Lipless Crankbaits
+#### Lipless Crankbaits
 
 Popular for fishing grassy areas where ordinary rigs get snagged. Best when the water begins to warm up after a winter.
 
