@@ -15,6 +15,8 @@ Eating fish: Trout, Salmon, Catfish
 
 Probably not worth eating: Bass, Panfish, Carp
 
+Maybe worth eating: Crappie (not much meat but apparently pretty yummy)
+
 Catfish are mostly only eaten in the south. They're not great tasting unless you really fry them. They're
 bottom-feeders so if you don't eat pork because pigs are dirty, you might feel the same way about eating
 catfish.
