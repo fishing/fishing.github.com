@@ -4,6 +4,8 @@ Being in a boat is only an advantage if you don't scare off all the fish, or if
 you know where to put your boat (where all the fish are). For that reason, I
 picked up a "transom-mount fish sonar" for ~$120, the [Garmin Striker 4 Fish
 Sonar](https://www.amazon.com/Garmin-010-01550-00-Striker-4/dp/B017NI17HQ).
+It turned out to be pretty nice, but not usable from shore. So later on I went
+and purchased the Deeper.
 
 ## Fish Sonar Basics
 
