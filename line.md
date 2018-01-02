@@ -42,6 +42,8 @@ it's UV-resistant (again, no weakening over time)...
 
 It's main disadvantage is that it's more expensive than mono. What a lot of people do is use it for leader line (fluorocarbon leader) to save money.
 
+It also has a lot of memory and tends to be pretty stiff. One of my favorite leader lines is actually a fluorocarbon-coated copolymer (KastKing's Fluorokote). I find it much easier to work with than too much pure fluorocarbon. I also treat all my fluorocarbon with line conditioner so that it has less memory and casts better.
+
 ## Line Weight
 
 Line weight is measured in lbs and that just refers to how much weight (at minimum) can be held by the static line.
