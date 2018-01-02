@@ -29,16 +29,22 @@ for non-spinning reels.
 #### Benefits of a Spinning Reel
 
 _All around versatility_ is the biggest reason people choose spinning reels. They can be used
-to cast many different types of tackle, including artificial lures and live bait.
+to cast many different types of tackle, including artificial lures and live bait. They can also
+be used to cast fairly light lures out (e.g 1/16oz) -- it's harder to do so using a baitcaster.
 
 #### Drawbacks of a Spinning Reel
 
-While spinning reels are great for casting practically everything in your tackle box, they don’t
-always provide the best effectiveness for heavy lures. They are also not as __accurate__ as
-baitcasters, so experienced bass anglers use them sparingly.
+1. Line twist. Since the line comes off the reel by itself, you can think of your line as being
+   re-wound every time you retrieve. This spins the line and if you have line with a lot of memory
+   (it remembers each time you twist the line) it can make things unmanagable.
+2. They don’t always provide the best effectiveness for heavy lures. They are also not as __accurate__ 
+   as baitcasters because you can't stop the line from going out as readily / control feed-out speed. So
+   you're liable to over/undershoot your target a bit more frequently than when using a baitcaster (assuming
+   you're practiced at baitcasters).
 
-If you are just getting started in fishing, a versatile and easy-to-use spinning reel is probably
-your best option.
+These things said, spinning reels are tried and true technology and pros still use them.
+
+If you are just getting started in fishing, a versatile spinning reel is the best option.
 
 ### Baitcaster Reels
 
@@ -61,6 +67,11 @@ Baitcaster reels : spinning reels :: stick shift : automatic transmission.
 Maybe not as dramatic as that, but definitely a step up skillwise.
 
 #### Drawbacks of a Baitcaster
+
+1. Backlash. Since the spool rotates as you cast it's liable to move too fast and cause nasty tangles that
+   take experience and time to figure out.
+2. More setup. You need to tune various drags and knobs depending on your reel specifically for the lure at the end of your
+   line. So if you change out your bait, you need to do a little tuning, and you need to know how to use the damn thing.
 
 You need patience to use a baitcaster effectively. At first, it will seem impossible to cast correctly,
 and if you don’t stop the spool after your bait / lure lands, the line keeps feeding out.
