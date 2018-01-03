@@ -13,7 +13,8 @@ the presence of a "sliding rig" which is just a plastic tube with a snap for att
 ## Fish Finder Rig Strengths
 
 1. It's very simple and popular -- it works.
-2. The free-floating bait makes it easier
+2. The free-floating bait makes a natural presentation and gives you a good amount of time to set the hook
+   (you can let the fish mouth the bait a bit).
 
 ## When / how to use a fish finder rig
 
