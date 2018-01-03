@@ -23,7 +23,7 @@ in the water until something comes along, mouths it, and then bites.
 Instead of using a swivel I prefer to use a "carolina keeper." This is a reaaaally cheap piece of plastic that you 
 can thread onto your line easily. It makes for 2 less knots you have to tie and much faster rig building.
 
-<img alt="Carolina Keeper" src="./img/carolina_keeper.jpg" height="200">
+<img alt="Carolina Keeper" src="./img/carolina_keeper.png" height="200">
 
 I pretty much use the carolina always when I'm dunking freshwater baits.
 
