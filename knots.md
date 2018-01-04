@@ -49,3 +49,7 @@ knots it doesn't slide on the line, so you can make a fixed-sized hoop.
 
 * Easy! 5 turns, then slip the end through 2 hoops and pull tight!
 * Again, 95% line strength
+
+Drawbacks:
+
+* I personally find this knot easy to tie incorrectly. I've lost lures when being impatient.
