@@ -8,13 +8,14 @@ the ones to know aren't too many and talked about below.
 Spinning reels are the most common reel and the one most think of when we talk about fishing.
 They're most used for small to medium-sized fish like bass, trout, redfish, and crappie.
 These reels have a fixed spool underneath the rod, and line is drawn out by the weight of
-the lure, bait, or tackle. They're the easiest kind of reel to use.
+the lure, bait, or tackle. They're the easiest kind of reel to use and if you don't know what
+kind of reel to buy, get a spinning reel.
 
 You can totally use them to fish for giant fish as well. There's nothing you can't catch on a
 spinning reel. If you're completely new to fishing, go for a spinning reel and stop looking
 at all the other fancy things.
 
-#### Casting Spinning Reels
+#### How to cast a spinning reel
 
 When you cast with a spinning reel, you lift the bail (the bar on the reel) and the weight of
 the tackle pulls string off the reel. The reel does NOT spin as line comes off it; it only
@@ -54,6 +55,10 @@ dimension of difficulty to casting: you have to stop the spool when the lure / b
 don't release too much line. These reels also look a bit different (the spool is sideways):
 
 <img alt="Baitcasting Reel Example" src="./img/baitcasting_reel_abu_garcia.jpg" height="150">
+
+However there's two huge benefits: the first is that unlike a spinning reel the line doesn't twist as much.
+Secondly you can adjust how fast the line comes off the spool (you can slow it down with your thumb) such that
+it's easier to control exactly how far your lure goes out. In other words, you have more control.
 
 #### Benefits of a Baitcaster
 
