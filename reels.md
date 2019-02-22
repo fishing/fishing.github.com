@@ -31,45 +31,49 @@ for non-spinning reels.
 
 _All around versatility_ is the biggest reason people choose spinning reels. They can be used
 to cast many different types of tackle, including artificial lures and live bait. They can also
-be used to cast fairly light lures out (e.g 1/16oz) -- it's harder to do so using a baitcaster.
+be used to cast fairly light lures out (e.g 1/32oz) -- it's much harder to do so using a baitcaster (or even impossible e.g 1/32oz doesn't seem like you'd get any distance).
 
 #### Drawbacks of a Spinning Reel
 
 1. Line twist. Since the line comes off the reel by itself, you can think of your line as being
    re-wound every time you retrieve. This spins the line and if you have line with a lot of memory
    (it remembers each time you twist the line) it can make things unmanagable.
-2. They don’t always provide the best effectiveness for heavy lures. They are also not as __accurate__ 
+2. Two-hand operation (vs baitcasters only need 1 hand). They are also not as __accurate__ 
    as baitcasters because you can't stop the line from going out as readily / control feed-out speed. So
    you're liable to over/undershoot your target a bit more frequently than when using a baitcaster (assuming
    you're practiced at baitcasters).
 
-These things said, spinning reels are tried and true technology and pros still use them.
+These things said, spinning reels are tried and true technology and pros use them, especially when fishing lighter
+lures.
 
-If you are just getting started in fishing, a versatile spinning reel is the best option.
+If you are just getting started in fishing, a versatile spinning reel is the best option. It doesn't make you any
+less pro than the person with a fancy baitcaster.
 
 ### Baitcaster Reels
 
 Baitcasting reels (also known as baitcasters), are more difficult reels to use.
-Unlike a spinning reel, the _spool rotates as you cast_. This adds a new
-dimension of difficulty to casting: you have to stop the spool when the lure / bait lands so that you
-don't release too much line. These reels also look a bit different (the spool is sideways):
+Unlike a spinning reel, the _spool rotates as you cast_ (minus whatever force the braking on your baitcaster applies). This adds a new dimension of difficulty to casting: you have to stop the spool when the lure / bait lands so that you
+don't release too much line (thus causing a backlash / birds nest). These reels also look a bit different (the spool is sideways):
 
 <img alt="Baitcasting Reel Example" src="./img/baitcasting_reel_abu_garcia.jpg" height="150">
 
-However there's two huge benefits: the first is that unlike a spinning reel the line doesn't twist as much.
+However there's two main benefits: the first is that unlike a spinning reel the line doesn't twist as much.
 Secondly you can adjust how fast the line comes off the spool (you can slow it down with your thumb) such that
 it's easier to control exactly how far your lure goes out. In other words, you have more control.
 
+Setting up the braking system which determines how fast the spool rotates at the beginning, middle, and end of a cast, is crucial. It can be pretty difficult; even pros backlash their reels. Some newer technologies have been aimed at reducing
+backlashes. Daiwa's TWS / SV technologies are one heavily praised example of innovation for reducing backlash while not killing all your casting distance. Another technology, DC, uses digital control to selectively apply braking to the spool to prevent backlash.
+
 #### Benefits of a Baitcaster
 
-With practice, you get more overall accuracy with a baitcaster as well as some added casting distance.
+With practice, you get more overall accuracy with a baitcaster. Casting distance all depends on if you dialed
 Because the reel rotates as you cast, there's no inertia keeping line from coming off the reel except
 for what you add by either using built-in brakes and/or your thumb (also called "thumbing"). Since you
 can stop line from coming off the reel at any time, you have an added degree of control.
 
 Baitcaster reels : spinning reels :: stick shift : automatic transmission.
 
-Maybe not as dramatic as that, but definitely a step up skillwise.
+Automatic works great for most cases. Some people like to drive stick. Maybe it's not as dramatic as that, but baitcasters are definitely a step up skill-wise.
 
 #### Drawbacks of a Baitcaster
 
@@ -77,18 +81,18 @@ Maybe not as dramatic as that, but definitely a step up skillwise.
    take experience and time to figure out.
 2. More setup. You need to tune various drags and knobs depending on your reel specifically for the lure at the end of your
    line. So if you change out your bait, you need to do a little tuning, and you need to know how to use the damn thing.
+3. Very rod dependent. The baitcaster cast has a lot to do with how stiff the rod is; this is far less true in spinning reels.
 
 You need patience to use a baitcaster effectively. At first, it will seem impossible to cast correctly,
 and if you don’t stop the spool after your bait / lure lands, the line keeps feeding out.
 
-One fallacy that people give is that you can't cast bait with a baitcaster (that it's for lures only). This
-turns out to be false. If you think about it logically there's not really a reason why you can't attach bait
-instead of a lure.
-
-One __true__ thing about baitcasters is that they excel with heavier weights. Casting a light spoon or spinner?
+Remember: baitcasters is that they excel with heavier weights. Casting a light spoon or spinner?
 You'll probably have an easier time using a spinning reel unless you've taken a lot of time to get good at
-baitcasters. Tuning baitcasters for light tackle is definitely one of the harder things; some people swear by
-baitcasters but new anglers should be aware that the easiest thing is to start with spinning reels.
+baitcasters, and you also have to have the perfect rod for it. Tuning baitcasters for light tackle is definitely
+one of the harder things; some people swear by baitcasters but new anglers should be aware that the easiest thing
+is to start with spinning reels. For certain types of quarry (e.g stocked lake trout) you're _far_ better off using a spinning setup.
+
+Baitcasters are often associated with bass fishing.
 
 ### Fly Reel
 
