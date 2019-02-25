@@ -22,6 +22,9 @@ Lures shine when __freshwater fishing__ for a few reasons:
 1. You can cover a lot of water and don't have to wait for fish to come to you. Bait on the other hand requires lots of waiting.
 2. You can target various depths and water types well and switch out colors to attract aggressive fish.
 
+## Lure Names
+
+You might see people refer to jerkbaits, swimbaits, poppers, etc. The important thing to remember is that baits are named after how you should fish them. So swimbaits are designed for optimal performance when you swim them through the water (steady retrieve works well). Poppers require you to pop them (super fast start/stop). Jerkbaits require you jerk them (rip, rip, stop...rip, rip, stop). Jigs are often work best by jigging (Up, let it sink. Up, let it sink).
 
 ## Lures & Line
 
