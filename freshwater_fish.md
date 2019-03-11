@@ -13,7 +13,7 @@ There are a few main kinds of North American freshwater fish people go after. Th
 
 Eating fish: Trout, Salmon, Catfish, Crappie
 
-Probably not worth eating: Bass, Panfish, Carp (controversial; some people really love eating carp)
+Probably not worth eating: Bass (high mercury & other contaminants), most panfish (minus crappie, which are big enough), carp (controversial; some people really love eating carp)
 
 Catfish are mostly only eaten in the south. They're not great tasting unless you really fry them. They're
 bottom-feeders so if you don't eat pork because pigs are dirty, you might feel the same way about eating
@@ -21,7 +21,7 @@ catfish. I certainly feel this way about carp, personally.
 
 Bass are eaten in some places, but often they have higher levels of mercury.
 
-Trout and Salmon are the gold standard for eating. They're high in omega 3's and trout in particular can't survive with very clean water. I heard once "if trout live in it, it's probably good enough to drink." This is clearly untrue because some water areas are contaminated with naturally-occurring mercury (e.g all lakes on the SF bay peninsula) and they have trout in them, but it is still a good barometer of water health.
+Trout and Salmon are the gold standard for eating. They're high in omega 3's and trout in particular can't survive without very clean water. I heard once "if trout live in it, it's probably good enough to drink." This is clearly untrue because some water areas are contaminated with naturally-occurring mercury (e.g all lakes on the SF bay peninsula) and they have trout in them, but it is still a good barometer of water health.
 
 Trout generally need clean (and cold) moving water, so you're more likely to find them in streams and rivers than anywhere
 else. Rainbow trout are sought after as sportfish as well as ideal food, so they get stocked into lakes for the
