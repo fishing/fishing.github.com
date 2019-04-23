@@ -123,8 +123,11 @@ Fly fishing gets around this by using heavy line and a set of techniques that le
 
 #### Drawbacks of Fly Fishing
 
-* You need to understand what kind of bugs / small critters the fish like eating.
+* You need to understand what kind of bugs / small critters the fish like eating. There's a ton to learn here. Even just
+  the different kind of flies is a lot of information to take in: dry vs wet flies, streamers vs flies, etc.
 * Casting fly gear can be tricky. It takes a lot of techinque.
+
+The good news is that there are a few patterns that are beginner friendly (basically, buy wooly bugger (wet streamer), blue winged olive (dry fly), and elk hare caddis (dry fly)).
 
 ## Reel Components
 
