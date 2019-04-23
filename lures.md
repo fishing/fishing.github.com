@@ -92,6 +92,16 @@ They cast very far, don't tangle as easily as other lures, and work very well wi
 
 Spinners are similar to spoons in that they are topwater lures 
 
+#### Inline Spinner
+
+Refers to a single length of metal with one or more spinners attached and a hook at the end. Examples include
+Yakima Rooster-tails and Panther Martin teardrop spinners.
+
+#### Bass fishing spinnerbaits
+
+These look like Y-shaped pieces of metal, usually with a teaser on one side and a hook + jig on the other. They're really
+versatile, though super professional bass anglers have been leaning toward bladed jigs and other spinner-inspired presentations these days.
+
 ### Swimbaits
 
 The word swimbait most commonly refers to a plastic that you thread onto a jighead, which is then called a swimjig.
