@@ -7,7 +7,7 @@ the ones to know aren't too many and talked about below.
 
 Spinning reels are the most common reel and the one most think of when we talk about fishing.
 They're most used for small to medium-sized fish like bass, trout, redfish, and crappie.
-These reels have a fixed spool underneath the rod, and line is drawn out by the weight of
+These reels have a *fixed spool* underneath the rod, and line is drawn out by the weight of
 the lure, bait, or tackle. They're the easiest kind of reel to use and if you don't know what
 kind of reel to buy, get a spinning reel.
 
@@ -31,7 +31,7 @@ for non-spinning reels.
 
 _All around versatility_ is the biggest reason people choose spinning reels. They can be used
 to cast many different types of tackle, including artificial lures and live bait. They can also
-be used to cast fairly light lures out (e.g 1/32oz) -- it's much harder to do so using a baitcaster (or even impossible e.g 1/32oz doesn't seem like you'd get any distance).
+be used to cast _light lures_ out (e.g 1/32oz) -- it's much harder to do so using a baitcaster (or even impossible e.g 1/32oz doesn't seem like you'd get any distance).
 
 #### Drawbacks of a Spinning Reel
 
@@ -42,6 +42,9 @@ be used to cast fairly light lures out (e.g 1/32oz) -- it's much harder to do so
    as baitcasters because you can't stop the line from going out as readily / control feed-out speed. So
    you're liable to over/undershoot your target a bit more frequently than when using a baitcaster (assuming
    you're practiced at baitcasters).
+3. Super super light lures are better casted on a fly rod. But also you can cast them on spinning gear with 
+   help from a casting float (different from a normal float, these are clear so they don't scare the fish with
+   good eyesight you are presumably targeting -- likely trout).
 
 These things said, spinning reels are tried and true technology and pros use them, especially when fishing lighter
 lures.
@@ -61,6 +64,10 @@ However there's two main benefits: the first is that unlike a spinning reel the 
 Secondly you can adjust how fast the line comes off the spool (you can slow it down with your thumb) such that
 it's easier to control exactly how far your lure goes out. In other words, you have more control.
 
+You _have_ to control the spool though. As good as any braking system is (there are even digitally controlled spools),
+if you don't control the spool using good casting motions and applying thumb pressure when needed, you're going to get
+a backlash.
+
 Setting up the braking system which determines how fast the spool rotates at the beginning, middle, and end of a cast, is crucial. It can be pretty difficult; even pros backlash their reels. Some newer technologies have been aimed at reducing
 backlashes. Daiwa's TWS / SV technologies are one heavily praised example of innovation for reducing backlash while not killing all your casting distance. Another technology, DC, uses digital control to selectively apply braking to the spool to prevent backlash.
 
@@ -71,9 +78,8 @@ Because the reel rotates as you cast, there's no inertia keeping line from comin
 for what you add by either using built-in brakes and/or your thumb (also called "thumbing"). Since you
 can stop line from coming off the reel at any time, you have an added degree of control.
 
-Baitcaster reels : spinning reels :: stick shift : automatic transmission.
-
-Automatic works great for most cases. Some people like to drive stick. Maybe it's not as dramatic as that, but baitcasters are definitely a step up skill-wise.
+It's also easy to cast and recast with a baitcaster once you have it dialed in. The lack of line twist
+is a serious benefit.
 
 #### Drawbacks of a Baitcaster
 
@@ -81,7 +87,10 @@ Automatic works great for most cases. Some people like to drive stick. Maybe it'
    take experience and time to figure out.
 2. More setup. You need to tune various drags and knobs depending on your reel specifically for the lure at the end of your
    line. So if you change out your bait, you need to do a little tuning, and you need to know how to use the damn thing.
-3. Very rod dependent. The baitcaster cast has a lot to do with how stiff the rod is; this is far less true in spinning reels.
+3. Very rod dependent. The baitcaster cast has a lot to do with how stiff the rod is; this is far less true in spinning 
+   reels.
+4. Can't cast light weights. This is changing now with the availability of "BFS" (bait finesse) casting reels, but they
+   can get quite pricey and you still need to tune them a lot. It's comparitively a lot easier to just use spinning gear.
 
 You need patience to use a baitcaster effectively. At first, it will seem impossible to cast correctly,
 and if you don’t stop the spool after your bait / lure lands, the line keeps feeding out.
@@ -96,13 +105,26 @@ Baitcasters are often associated with bass fishing.
 
 ### Fly Reel
 
-Flyfishing is a surface fishing technique that relies on your casting the weight of the line instead of
-the weight of your tackle. Terminal tackle for fly fishing is almost weightless (a "fly lure"). It seems
-difficult and I think I prefer other kinds of fishing so I'm not going to write more about it.
+Fly fishing is a surface fishing technique that relies on your casting the weight of the line instead of
+the weight of your tackle. Terminal tackle for fly fishing is almost weightless (a "fly lure").
 
 Here's what a fly reel looks like:
 
 <img alt="Fly Reel Example" src="./img/fly_reel.jpg" height="150">
+
+#### Benefits of Fly Fishing
+
+Fly fishing lets you cast the lightest lures of them all. If you've been fishing a while, you'll soon realize that
+smaller baits help you catch a plethora of fish. Spinning gear and casting gear both rely on you to propel a lure / bait
+forward in the air and let its momentum draw out line from your reel. When your lure/bait is so lightweight that it can't
+pull out line, you can't cast it!
+
+Fly fishing gets around this by using heavy line and a set of techniques that lets you cast the line itself. So you're really just throwing line into the water. At the end of the line you put a leader and what's called a "tippet" (even lighter than your leader, some floppy line to let the fly move naturally).
+
+#### Drawbacks of Fly Fishing
+
+* You need to understand what kind of bugs / small critters the fish like eating.
+* Casting fly gear can be tricky. It takes a lot of techinque.
 
 ## Reel Components
 
