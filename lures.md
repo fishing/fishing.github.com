@@ -54,15 +54,18 @@ your target fish swim. (Example: trout like topwater lures.)
 
 ## Types of Lures
 
-### Jerkbaits
+### Jerkbaits (also called Ripbaits)
 
-These are lures that are often used with baitcasting rods. You cast them out, then move them around by
+These are skinny looking baitfish imitation lures that are often used with baitcasting rods.
+You cast them out, then move them around by
 doing a "jerk-jerk-pause" kind of pattern. If you use a spinning rod, this may cause a lot of
 loose loops around your reel (though _technically_ you can use jerkbaits with a spinning rod).
 Casting reels eliminate the issue of having loose line coils that lead to tangles with a
 spinning reel.
 
-Most jerkbaits are _ripbaits_.
+There is some contention / confusion as to whether ripbaits are something separate from jerkbaits
+or just a broader classification. It might have to do with a gentler jerking pattern vs a fast / hard ripping
+motion with pauses between rips. In my experience you can do either regardless of your lure.
 
 ### Plugs
 
@@ -91,27 +94,14 @@ Spinners are similar to spoons in that they are topwater lures
 
 ### Swimbaits
 
-Swimbaits imitate swimming fish. The word swimbait most commonly refers to a plastic that you thread onto a jighead.
+The word swimbait most commonly refers to a plastic that you thread onto a jighead, which is then called a swimjig.
 The swimbait is the plastic fish imitation itself, and the jig is the jighead + the swimbait.
 
-Any fish-imitation can be considered a swimbait though.
+Any fish-imitation can be considered a swimbait though. You "swim" it through the water.
 
 ##### Example: Segmented Hard-bodied Swimbaits
 
 Some swimbaits that have segments and are designed to look like swimming fish. You sort of have to move them around in still water, otherwise I've caught stuff on them in the ocean just from the ocean water moving. [Example of a swimbait](https://www.amazon.com/Blue-Gill-Panfish-Talipia-Fishing/dp/B00RC9A66A).
-
-### Ripbaits
-
-There is some contention / confusion as to whether ripbaits are something separate from jerkbaits
-or just a broader classification, but generall _Ripbait_ is just a term for any bait that works
-best when ripped fast and hard, to imitate a fish swimming quickly. This can apply to either
-jerkbaits and crankbaits, the two kinds of baits. But you'll often see people comparing ripbaits
-to jerkbaits as if they were two categorizations also, in which case they're mostly comparing the
-_presentation_ of the bait (using the jerking pattern vs a fast / hard ripping motion with pauses
-between rips).
-
-For example, I've heard someone describe a jerkbait as being a ripbait in certain seasons
-and not in others.
 
 ### Popper
 
@@ -131,7 +121,7 @@ From this <a href="http://bassfishingdem.blogspot.com/2008/05/hula-popper.html">
 
 ### Crankbaits
 
-Crankbaits can be used both with casting and spinning reels. The idea behind a crankbait is you cast it as far as you can, then slowly crank it back. Then do it again and again. The only way to fish a crankbait wrong is to fish it at the wrong depth.
+Crankbaits can be used both with casting and spinning reels. The idea behind a crankbait is you cast it as far as you can, then slowly crank it back. Then do it again and again. The only way to fish a crankbait wrong is to fish it at the wrong depth. Crankbaits generally have a lip, which means they dive when you retrieve. You can find crankbaits that are rated to dive to any number of depths, and should match what you use to the water body you are fishing.
 
 There are some guidelines for using crankbaits well, especially for bass fishing:
 
@@ -142,8 +132,6 @@ rod first, which gives the bass time to get away.
 discourage the bass from jumping. One technique I saw described getting down on one knee.
 
 #### Lipless Crankbaits
-
-Popular for fishing grassy areas where ordinary rigs get snagged. Best when the water begins to warm up after a winter.
 
 Some properties of lipless crankbaits:
 
