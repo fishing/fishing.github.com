@@ -11,9 +11,11 @@ Want to land bigger fish? Learn at least these knots:
 
 ## Uni Knot
 
-If you don't want to learn many knots, this is the only one to know. You can do line-to-line (double uni), line to hook, line to loop, etc. Once you get the hang of it, it's pretty easy.
+If you don't want to learn many knots, this is the only one you need to know. You can do line-to-line (double uni), line to hook, line to loop, etc. Once you get the hang of it, it's pretty easy.
 
-However I personally like the Palomar knot better for situations where it works, mainly because I find it easier to tie and because it has slightly better knot strength. I use the Uni knot for pretty much all other situations.
+However I personally like the Palomar knot better for situations where it works, mainly because I find it easier to tie and because it has slightly better knot strength. I also use the alberto knot for joining line because it has a slimmer profile that lets you cast through guides (some other people like something called the FG knot but it's a bit difficult to tie).
+
+I use the Uni knot for pretty much all other situations.
 
 ![Uni Knot](./img/uni-knot.jpg)
 
@@ -35,6 +37,10 @@ Drawbacks:
 * Takes more line to tie because it doubles a piece of line first
 * You have to pull one end of what you're tying through a loop, so in situations where you can't do that (e.g tying a hook at the end of a rig that's already attached to your reel) you need to use a different knot.
 
+## Alberto Knot
+
+
+
 ## Perfection Loop
 
 When you buy pre-tied hooks, they come with a loop at the end you can just put into your snap swivel or
@@ -44,11 +50,14 @@ knots it doesn't slide on the line, so you can make a fixed-sized hoop.
 
 ![Perfection Loop](./img/perfection_loop.gif)
 
+Unfortunately a perfection loop weakens your line significantly. That makes it perfect for adding your weight the bottom of a rig (since it's cheaper to lose a weight than your whole rig if you get snagged) but it's not actually what you want to use if you're attaching hooks or anything like that.
 
-## Improved Cinch Knot
 
-* Easy! 5 turns, then slip the end through 2 hoops and pull tight!
-* Again, 95% line strength
+## Improved Clinch Knot
+
+* Easy! 5 turns, then slip the end through 2 hoops, moisten, and pull tight!
+* Again, 95% line strength if used correctly.
+* Warning: If you only slip through one hoop it is the original clinch knot, and it loosens fairly easily :(
 
 Drawbacks:
 
