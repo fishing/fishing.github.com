@@ -4,12 +4,11 @@ title: Introduction
 ---
 
 When we talk about fishing, most folks imagine sitting by a pond or lake with a
-hook in the water, waiting for a fish to come by. While you can certainly fish
-this way, and this can be quite enjoyable to some (especially in combination
-with good friends, alcohol, or both) -- this hardly represents all that fishing
-has to offer. Fishing doesn't always involve patience: at its best, it's a very
-active sport where participants chase wild creatures to experience their
-strength and beauty.
+hook in the water, waiting for a fish to come by. While this can be quite
+enjoyable to some (especially in combination with good friends, alcohol, or both)
+-- this hardly represents all that fishing has to offer. Fishing doesn't always
+involve patience: at its best, it's a very active sport where participants chase
+wild creatures to experience their strength and beauty.
 
 Before 2016, I had gone fishing a couple of times. Once when I was very young --
 with my dad and some family friends on an east coast party boat. We didn't catch
