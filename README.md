@@ -4,8 +4,6 @@ By [Sam Liu](https://samliu.io)
 
 ## Table of Contents
 
-Work in progress.
-
 * [Introduction](01_intro.md)
 
 
