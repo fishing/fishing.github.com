@@ -49,6 +49,7 @@ By [Sam Liu](https://samliu.io)
 * [Fly Tying Intro](#)
 * Specific Fly Patterns
   * Articulated Flies
+    * [Blaine Chocklett's Game Changer](#) 
   * Dry Flies
     * [Adams](#)
     * [Ant](#)
