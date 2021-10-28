@@ -7,25 +7,110 @@ By [Sam Liu](https://samliu.io)
 * [Introduction](01_intro.md)
 
 
-### General
+### Standard Fishing Curriculum
 
-* [Intro to fishing by hook and line](#)
 * [Conventional Fishing Intro](#)
-* [Fly Fishing Intro](#)
 * [Knots Curriculum](#)
-* [All About Hooks](#)
-* [Boat Fishing](#)
-* [Tackle](#)
+* Rigs
+  * [Carolina Rig](#)
+  * [Drop Shot Rig](#)
+  * [Float Bobber Rig](#)
+  * [Hi-lo Rig](#)
+  * [Sabiki Rig](#)
+  * [Texas Rig](#)
+  * [Wacky Rig](#)
+* Tackle
+  * [Jigheads](#)
+  * [Hooks](#)
+  * [Lines](#)
+  * [Sinkers](#)
+* Specific Baits
+  * Artificial 
+    * [Senko](#)
+    * [Straight-tail Worm](#)
+    * [Curly-tail Grub](#)
+    * [Paddletail Swimbait](#)
+    * [Swimbaits](#)
+    * [Topwater (poppers, frogs, walking baits)](#)
+    * [Jerkbaits & Crankbaits](#)
+    * [Spinnerbaits & Buzzbaits](#)
+    * [Jigs](#) 
+    * [Darters](#)
+    * [Bucktail Jigs (Hair-raiser)](#)
+  * Live
+    * [Small Live Baitfish (minnows, killies, anchovies)](#)
+    * [Worms (nightcrawlers, redworms, bloodworms, leeches)](#)
+    * [Chunking (cut up fish)](#)
+
+### Fly Fishing
+
+* [Fly Fishing Intro](#)
+* [Fly Gear](#)
+* [Fly Tying Intro](#)
+* Specific Fly Patterns
+  * Articulated Flies
+  * Dry Flies
+    * [Adams](#)
+    * [Ant](#)
+    * [Blue Winged Olive](#)
+    * [Green Drake](#)
+    * [Grasshopper](#)
+    * [Elk Hair Caddis](#)
+    * [Mosquito](#)
+    * [Pale Morning Dun](#)
+    * [Trico Mayfly](#)
+    * [Stimulator](#)
+  * Nymphs
+    * [Copper John](#) 
+    * [Prince Nymph](#)
+    * [Pheasant Tail Nymph](#)
+  * Midges
+    * [Chironomids](#)
+    * [Zebra Midge](#)
+  * Streamers
+    * [Clouser](#)
+    * [Deceiver](#)
+    * [Wooly Bugger](#)
+  * Worm Patterns
+    * [San Juan Worm](#)
+    * [Squirmy Wormy](#) 
+
+* Artistic Fly Patterns
+  * Traditional Salmon Fly
+    * [Black Dog](#)
+    * [Durham Ranger](#)
+    * [Garry Dog](#)
+    * [Green Highlander](#)
+    * [Jock Scott](#)
+    * [Lady Amherst](#)
+    * [Sherbrook](#)
+    * [Silver Doctor](#)
+    * [Thunder & Lightning](#)
+* Other Techniques
+  * [Euro Nymphing](#)
+  * [Tenkara](#)
+  * [Surf Fly](#)
+  * [Spey](#)
 
 ### By Species
 
-* [Crappie & Panfish](#)
-* [Largemouth Bass](#)
-* [Striped Bass](#)
-* [Salmonids](#)
+* [California Halibut](#)
 * [Catfish & Carp](#)
-* [Sharking](#)
+* [Crappie & Panfish](#)
+* [Fluke / Flounder](#)
+* [Largemouth Bass](#)
+* [Muskie](#)
+* [Pike and Pickerel](#)
+* [Salmonids](#)
+* [Sharks](#)
+* [Striped Bass](#)
+* [Sturgeon](#)
+* [Yellow Perch](#)
+
+### Fishing Related
+
 * [Crab Snaring](#)
+* [Poke-pole](#)
 
 ### Where to Fish
 
