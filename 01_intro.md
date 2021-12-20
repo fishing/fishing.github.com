@@ -24,6 +24,8 @@ Francisco bay. It wasn't a particularly good fishing day, but I caught an 8lbs
 Halibut, the biggest fish of the trip. The powerful fish bent my rod, pulled the line,
 and just like that _I_ was hooked.
 
+![image](https://user-images.githubusercontent.com/135933/146756674-4960b53f-eac4-4604-8a27-d4b7ea855080.png)
+
 I'm an engineer, so it did occur to me that fishing with hook and line is not an
 efficient way to procure fish for food. There's also a luck component, which people
 overrate the same way they overrate the role of luck in poker. If I can go to any old
