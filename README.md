@@ -10,6 +10,7 @@ By [Sam Liu](https://samliu.io)
 ### Standard Fishing Curriculum
 
 * [Conventional Fishing Intro](#)
+* [A Beginner's Guide](beginner.md)
 * [Knots Curriculum](#)
 * Rigs
   * [Carolina Rig](#)
