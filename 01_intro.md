@@ -3,37 +3,37 @@ layout: page
 title: Introduction
 ---
 
-When we talk about fishing, most folks imagine sitting by a pond or lake with a
-hook in the water, waiting for a fish to come by. While this can be quite
-enjoyable to some (especially in combination with good friends, alcohol, or both)
+Those unfamiliar with fishing think of it as a patience game involving
+sitting by a pond or lake with a hook in the water. While this is one version of the truth,
+and while this may be enjoyable (especially in combination with good friends, alcohol, or both)
 -- this hardly represents all that fishing has to offer. Fishing doesn't always
-involve patience: at its best, it's a very active sport where participants chase
-wild creatures to experience their strength and beauty.
+involve patience: in many styles of fishing are it's an active sport where participants
+chase wild creatures to experience a sacred tug of war.
 
-Before 2016, I had gone fishing a couple of times. Once when I was very young --
-with my dad and some family friends on an east coast party boat. We didn't catch
-much of anything, except one very persistent bait-stealing ray. Another time I
-went to the local pond with a high school classmate, and we caught some stocked
-catfish. My mom refused to cook the catfish and made me release them in a stream
-near our home -- the very next day a red-tailed hawk was devouring the poor fish
+Before 2016, I had only gone fishing a couple of times. Once was when I was very
+young -- it was with my dad and family friends on an east coast party boat.
+We didn't catch much of anything, except one very persistent bait-stealing ray.
+Another time I went to the local pond with a high school classmate, and we caught
+some stocked catfish. My mom refused to cook the catfish and made me release them
+in a stream near our home. The very next day a red-tailed hawk devoured the poor fish
 on our back lawn.
 
-These being my experiences, I told my partner "I want to eat a fish I've caught"
-and she surprised me in May of 2016 by booking a chartered trip out to San
+These being my experiences, I told my partner "I would like to eat a fish that I've
+caught," and she surprised me in May of 2016, booking a chartered trip onto San
 Francisco bay. It wasn't a particularly good fishing day, but I caught an 8lbs
-Halibut, the biggest fish of the trip. Feeling the powerful fish bend our rod, I
-was absolutely hooked.
+Halibut, the biggest fish of the trip. The powerful fish bent my rod, pulled the line,
+and just like that _I_ was hooked.
 
-While sustainable, it did occur to me that fishing with hook and line is not an
-efficient way to procure fish for food. For many, fishing is a one-time
-experience for that reason -- it doesn't seem worth the effort. Many are
-satisfied to try it once and let that be that. So what's actually great about
-fishing, and why is it such a fixation point for some?
+I'm an engineer, so it did occur to me that fishing with hook and line is not an
+efficient way to procure fish for food. There's also a luck component, which people
+overrate the same way they overrate the role of luck in poker. If I can go to any old
+grocery store and buy fish, why should I care to learn to fish? And if nets are more
+efficient than hook-and-line, why bother with this outmoded technique?
 
 To understand this, it's important to let go of the "fish as food" aspect of
 fishing. Certainly, if you want to eat fish, supermarkets are the lowest effort
 method of scoring something yummy. Instead, the factors that made catching an
-8lbs Halibut so enthralling for me were:
+8lbs Halibut so enthralling included:
 
 * __The surprise of encounter__: before we hooked up, I didn't know what kind of
   fish would be at the end of the line, I didn't know how big it would be, and I
@@ -51,10 +51,14 @@ method of scoring something yummy. Instead, the factors that made catching an
 * __The beauty of nature__: it felt magical to find a big powerful creature in
   its natural habitat and to then feel it in my hands. It was correspondingly
   sad when the deckhands bonked it with a bat and bled the creature to make it
-  good for consumption.
+  good for consumption. What's very cool about fishing, unlike hunting, is that
+  you do have the option to let the fish go at the end, and if you handle them
+  correctly, they return to nature unharmed. What you win in this exchange is an
+  intimate moment with mother nature the same way you might enjoy experiencing the
+  scale of an elephant, or the ferocity of a feasting lion, or the beauty of a
+  colorful butterfly.
 
-One joyful aspect that I felt missing on this particular trip, but would soon
-begin a pursuit over, was:
+One joyful aspect that I felt missing on this particular trip was:
 
 * __The satisfaction of skill__: on a party boat, gear is provided to you and
   deckhands help you tie knots, rigs, and untangle when you mess up. The captain
