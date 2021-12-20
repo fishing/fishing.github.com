@@ -13,11 +13,11 @@ By [Sam Liu](https://samliu.io)
 * [Knots Curriculum](#)
 * Rigs
   * [Carolina Rig](#)
+  * [Texas Rig](#)
   * [Drop Shot Rig](#)
   * [Float Bobber Rig](#)
   * [Hi-lo Rig](#)
   * [Sabiki Rig](#)
-  * [Texas Rig](#)
   * [Wacky Rig](#)
 * Tackle
   * [Jigheads](#)
@@ -111,7 +111,7 @@ By [Sam Liu](https://samliu.io)
 ### Fishing Related
 
 * [Crab Snaring](#)
-* [Poke-pole](#)
+* [Poke-poling](#)
 
 ### Where to Fish
 
