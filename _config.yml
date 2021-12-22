@@ -1,0 +1,12 @@
+# Site settings
+title: Fishing
+email: sam@ambushnetworks.com
+description: > # this means to ignore newlines until "baseurl:"
+    Sam's Fishing Blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://fishing.github.io" # the base hostname & protocol for your site
+twitter_username: samliu
+github_username:  samliu
+
+# Build settings
+markdown: kramdown
