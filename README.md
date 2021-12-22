@@ -1,5 +1,5 @@
 # Fishing, by Sam Liu
 
-* [Fishing Blog](blog/index.md)
+* [Fishing Blog](https://fishing.github.io/blog)
 * [Fishing Guide](guide/index.md)
 
