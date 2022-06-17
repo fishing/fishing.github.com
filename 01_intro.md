@@ -7,7 +7,7 @@ Those unfamiliar with fishing think of it as a patience game involving
 sitting by a pond or lake with a hook in the water. While this is one version of the truth,
 and while this may be enjoyable (especially in combination with good friends, alcohol, or both)
 -- this hardly represents all that fishing has to offer. Fishing doesn't always
-involve patience: in many styles of fishing are it's an active sport where participants
+involve patience: many styles of fishing are active sports where participants
 chase wild creatures to experience a sacred tug of war.
 
 Before 2016, I had only gone fishing a couple of times. Once was when I was very
@@ -19,7 +19,7 @@ in a stream near our home. The very next day a red-tailed hawk devoured the poor
 on our back lawn.
 
 These being my experiences, I told my partner "I would like to eat a fish that I've
-caught," and she surprised me in May of 2016, booking a chartered trip onto San
+caught," and she surprised me in May of 2016 with a chartered trip on San
 Francisco bay. It wasn't a particularly good fishing day, but I caught an 8lbs
 Halibut, the biggest fish of the trip. The powerful fish bent my rod, pulled the line,
 and just like that _I_ was hooked.
@@ -56,9 +56,8 @@ method of scoring something yummy. Instead, the factors that made catching an
   good for consumption. What's very cool about fishing, unlike hunting, is that
   you do have the option to let the fish go at the end, and if you handle them
   correctly, they return to nature unharmed. What you win in this exchange is an
-  intimate moment with mother nature the same way you might enjoy experiencing the
-  scale of an elephant, or the ferocity of a feasting lion, or the beauty of a
-  colorful butterfly.
+  intimate moment with mother nature. It's the same impulse that drives folks to
+  go on safaris or to visit an aquarium.
 
 One joyful aspect that I felt missing on this particular trip was:
 
